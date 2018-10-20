@@ -1,0 +1,7 @@
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\bin\Debug\ProvaIMC.exe.config
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\bin\Debug\ProvaIMC.exe
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\bin\Debug\ProvaIMC.pdb
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\obj\Debug\ProvaIMC.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\obj\Debug\ProvaIMC.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\obj\Debug\ProvaIMC.exe
+C:\Users\BR\source\repos\ProvaIMC\ProvaIMC\obj\Debug\ProvaIMC.pdb
